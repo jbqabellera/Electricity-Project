@@ -4,7 +4,7 @@ The project's goal is to understand the characteristics, trends, and causes of e
 
 # DATA
 
-[Electricity Dataset](https://github.com/jbqabellera/electricity_sql/blob/87f5f8b26aa86a38a55fcd5f79923893e14c9511/Electricity%20Supply%20Interruptions.xls)
+[Electricity Dataset](https://github.com/jbqabellera/electricity/blob/a8da4e3a07ac5e08b4e2c60fe766804184450ea0/electricity_excel%20dashboard.xlsx)
 
 The dataset includes information about electricity distribution utilities across the country from 2007-2022, specifically:
 
@@ -36,17 +36,13 @@ The client wants to know:
 
 ## TOOLS
 
-Data Cleaning
-- Excel and STATA
-- Raw file
-Data Analysis
-- SQL Server
-Data Visualization
-- Excel
+- Data Cleaning: Excel and STATA
+- Data Analysis: SQL Server
+- Data Visualization: Excel
 
 ## DATA CLEANING/PREPARATION
 
-[Raw file](https://github.com/jbqabellera/electricity_sql/blob/87f5f8b26aa86a38a55fcd5f79923893e14c9511/2007-2022%20Reliability.xlsx)
+[Raw file](https://github.com/jbqabellera/electricity/blob/a8da4e3a07ac5e08b4e2c60fe766804184450ea0/2007-2022%20Reliability.xlsx)
 
 Starting with the raw file from the Department of Energy, I performed the following tasks:
 1. Data loading and inspection.
