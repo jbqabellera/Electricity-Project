@@ -50,8 +50,10 @@ Starting with the raw file from the Department of Energy, I performed the follow
 1. Data loading and inspection.
 2. Create a uniform format for all the years, following the principles of a "good dataset."
 3. Merge the annual records into a longitudinal dataset.
-4. Column quality - Handle blanks, spelling errors, etc.
-5. DU - Check for DUs that changed the name. Use the latest name and rename the previous years.
+4. Fix spelling errors.
+5. Handle missing data
+- Region and classification data were not available in earlier years.
+- Some distribution utilities changed its business name.
 6. Formatting.
 7. Double-check everything for accuracy and correctness.
 
