@@ -11,7 +11,10 @@ The dataset includes information about electricity distribution utilities across
 - Distribution Utility (DU)
 - Year
 - Reliability indices
+
+  
 **System average interruption frequency index (SAIFI)**
+
 : average frequency of sustained interruptions per customer over a predefined area
 
 **System average interruption duration index (SAIDI)**
@@ -39,7 +42,7 @@ Data Cleaning
 Data Analysis
 - SQL Server
 Data Visualization
-- Power BI
+- Excel
 
 ## DATA CLEANING/PREPARATION
 
@@ -194,8 +197,14 @@ FROM du_count
 ORDER BY count_exceeding_yearly DESC
 
 ```
+
+## Electricity Interruptions Dashboard
+
+Microsoft Excel is used to build this interactive [dashboard](https://1drv.ms/x/c/492367e7aa5d37f3/IQNc4SyPguJqTaXNGafqx5zoARR9PrdkRWfkGRnYK_QmY28).
+This dashboard is intended for policymakers and the public.
+
 ## Key Takeaways
 - Electricity supply interruptions have been worsening for the last five years, according to all three indicators
 - Mindanao suffers from the most frequent and longest power outages. In Luzon, interruptions are shorter but more frequent.
 - The major cause of electricity interruptions is insufficient power supply. 
-- The poor performing distribution utilities are those from Region IV-B or MIMAROPA. The distribution utilities in this area must be improved.
+- The poor-performing distribution utilities are those from Region IV-B or MIMAROPA. The distribution utilities in this area must be improved.
