@@ -44,6 +44,8 @@ The client wants to know:
 
 [Raw file](https://github.com/jbqabellera/electricity/blob/a8da4e3a07ac5e08b4e2c60fe766804184450ea0/2007-2022%20Reliability.xlsx)
 
+![Snapshot of Raw Data](https://github.com/jbqabellera/Electricity-Project/blob/b812bb42e811ddd07826955055361398edce552f/04%20-%20Raw.png)
+
 Starting with the raw file from the Department of Energy, I performed the following tasks:
 1. Data loading and inspection.
 2. Create a uniform format for all the years, following the principles of a "good dataset."
@@ -54,6 +56,8 @@ Starting with the raw file from the Department of Energy, I performed the follow
 7. Double-check everything for accuracy and correctness.
 
 Here is  the [cleaned data](https://1drv.ms/x/c/492367e7aa5d37f3/IQPacROZlFwtR46EYFQGxj_NAZts-G5IBdu1uSb3RJ8iml8)
+
+![Snapshot of Cleaned Dataset](https://github.com/jbqabellera/Electricity-Project/blob/b812bb42e811ddd07826955055361398edce552f/05%20-%20Cleaned%20Dataset.png)
 
 ## DATA ANALYSIS
 
@@ -199,6 +203,9 @@ ORDER BY count_exceeding_yearly DESC
 Microsoft Excel is used to build this interactive [dashboard](https://1drv.ms/x/c/492367e7aa5d37f3/IQNc4SyPguJqTaXNGafqx5zoARR9PrdkRWfkGRnYK_QmY28).
 This dashboard is intended for policymakers and the public.
 
+![Electricity Interruptions Dashboard](https://github.com/jbqabellera/Electricity-Project/blob/fa23fafe0e9efb9cc68b28388e980cfba6b90e53/06%20-%20Electricity%20Interruptions%20Dashboard.png)
+
+
 ## Key Takeaways
 - Electricity supply interruptions have been worsening for the last five years, according to all three indicators
 - Mindanao suffers from the most frequent and longest power outages. In Luzon, interruptions are shorter but more frequent.
@@ -209,14 +216,4 @@ This dashboard is intended for policymakers and the public.
 
 1. ALWAYS keep a copy of the original file. 
 2. UNDERSTAND what good data means.
-- Data must be in a tabular format
-- No empty columns/rows
-- Each column has a clear header. The header should be the first row.
-- No total/subtotal rows
-- No extra formatting
-3. An additional hour of double-checking saves you from a bigger mess. Cleaning up this mess would take you more than the time spent on double-checking. Don't be lazy and check, check, check!
-
-## Remember
-
-If your data is wrong, then your analysis is garbage.
-
+3. An additional hour of double-checking saves you from a bigger mess.
