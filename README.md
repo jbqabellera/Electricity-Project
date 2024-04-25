@@ -2,7 +2,7 @@
 
 The project's goal is to understand the characteristics, trends, and causes of electricity interruptions in  the country. Using this information, we can provide recommendations and avoid potential losses (e.g., lower profit for businesses).
 
-# DATA
+## DATA
 
 [Electricity Dataset](https://github.com/jbqabellera/electricity/blob/a8da4e3a07ac5e08b4e2c60fe766804184450ea0/electricity_excel%20dashboard.xlsx)
 
