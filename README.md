@@ -42,7 +42,7 @@ The client wants to know:
 
 ## DATA CLEANING/PREPARATION
 
-[Raw file](https://github.com/jbqabellera/electricity/blob/a8da4e3a07ac5e08b4e2c60fe766804184450ea0/2007-2022%20Reliability.xlsx)
+[Raw file](https://github.com/jbqabellera/electricity.github.io/blob/06494d5afded799d50acd0dff580e042c5e3f229/04%20-%20Raw.png)
 
 ![Snapshot of Raw Data](https://github.com/jbqabellera/Electricity-Project/blob/b812bb42e811ddd07826955055361398edce552f/04%20-%20Raw.png)
 
