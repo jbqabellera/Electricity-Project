@@ -204,3 +204,19 @@ This dashboard is intended for policymakers and the public.
 - Mindanao suffers from the most frequent and longest power outages. In Luzon, interruptions are shorter but more frequent.
 - The major cause of electricity interruptions is insufficient power supply. 
 - The poor-performing distribution utilities are those from Region IV-B or MIMAROPA. The distribution utilities in this area must be improved.
+
+## My Best Practices
+
+1. ALWAYS keep a copy of the original file. 
+2. UNDERSTAND what good data means.
+- Data must be in a tabular format
+- No empty columns/rows
+- Each column has a clear header. The header should be the first row.
+- No total/subtotal rows
+- No extra formatting
+3. An additional hour of double-checking saves you from a bigger mess. Cleaning up this mess would take you more than the time spent on double-checking. Don't be lazy and check, check, check!
+
+## Remember
+
+If your data is wrong, then your analysis is garbage.
+
