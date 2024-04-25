@@ -42,10 +42,10 @@ The client wants to know:
 
 ## DATA CLEANING/PREPARATION
 
-[Raw file](https://github.com/jbqabellera/electricity.github.io/blob/06494d5afded799d50acd0dff580e042c5e3f229/04%20-%20Raw.png)
+[Raw file](https://github.com/jbqabellera/electricity.github.io/blob/3bbbaa8a5a8e574c755bf23d800f520f72a0f71c/01%20-%202007-2022%20Reliability.xlsx)
 
-![Snapshot of Raw Data](https://github.com/jbqabellera/Electricity-Project/blob/b812bb42e811ddd07826955055361398edce552f/04%20-%20Raw.png)
-
+![Snapshot of Raw Data](https://github.com/jbqabellera/electricity.github.io/blob/3bbbaa8a5a8e574c755bf23d800f520f72a0f71c/04%20-%20Raw.png)
+hi
 Starting with the raw file from the Department of Energy, I performed the following tasks:
 1. Data loading and inspection.
 2. Create a uniform format for all the years, following the principles of a "good dataset."
